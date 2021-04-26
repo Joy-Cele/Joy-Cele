@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joy-Cele
 - 👀 I’m interested in Javascript, Html, Python, Visual Studio Code, CSS, Java, Android Studio.
-- 🌱 I’m currently learning IT Application Development Programme
+- 🌱 I’m currently studying an IT Application Development Programme
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email me on celenokuthula2001@gmail.com
 
